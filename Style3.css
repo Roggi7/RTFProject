@@ -1,0 +1,13 @@
+﻿body
+{
+	background: #5565;
+}
+
+.anketa
+{
+	width: 60%;
+}
+
+th, td {
+   padding: 10px 15px;
+}

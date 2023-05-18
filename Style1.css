@@ -1,0 +1,13 @@
+﻿body
+{
+	background: #dfe9f5
+}
+.wrapper {
+		width: 400px;
+		padding: 2rem 0 1rem 0;
+		margin: 45px auto;
+		background: white;
+		border: radius 10px;
+		text-align: center;
+		box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
